@@ -1,4 +1,5 @@
 #Starter code to clone VMs and print ip addresses
+#Sources: https://github.com/RTCedu/CNA350/blob/master/CNA350/VirtualBoxBasic.py // https://pythonhosted.org/pyvbox/virtualbox/pool.html
 #Wyatt Humphreys: wlhumphreys@student.rtc.edu | 2/21/19 CNA 350
 import os, virtualbox, vboxapi, win32com, time
 
